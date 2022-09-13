@@ -267,9 +267,9 @@ Explain `npm install`. Explore `node_modules`.
 
 Explain `npm run dev`.
 
-Explore the code. Explain the things we have already seen. Don't rush into router, yet.
+Explore the source code briefly.
 
-Explain `npm run build`. Explore the `dist` folder.
+Explain `npm run build`. Explore the `dist` folder. Run the dist folder in a live server.
 
 ### Session 4: LAB
 
@@ -280,6 +280,9 @@ Option B. Do the Ironhack Cart.
 ## Day 2
 
 ### Session 1 (~120)
+
+Explore the source code. Explain the things we have already seen. Don't rush into router, yet.
+
 Explore the files and folders in the Vue3 build setup. Review what we have already seen on Session 1 in the new setup. Explain the differences (skip router and things we did not see).
 
     What are SFC?
