@@ -280,7 +280,7 @@ Option B. Do the Ironhack Cart.
 ## Day 2
 
 ### Session 1 (~120)
-Explore the files and folders. Review what we have already seen on Session 1 in the new setup. Explain the differences (skip router and things we did not see).
+Explore the files and folders in the Vue3 build setup. Review what we have already seen on Session 1 in the new setup. Explain the differences (skip router and things we did not see).
 
     What are SFC?
 
@@ -294,7 +294,7 @@ Explore the files and folders. Review what we have already seen on Session 1 in 
 
 ### Session 2: LAB
 
-Using a build setup and SFC.
+Using a build setup and SFC (should we prepare a basic Vue3 setup, clean of sample components?).
 
 Option A. Set up a new project and create a general layout with 3 components (header, main and footer).
 
