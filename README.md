@@ -82,6 +82,8 @@ Show reactivity. Explain how to access the data from the methods in Vue.js.
 
 Explain the problem. If we change the number of units, it still calculates the total based on the initial number of units.
 
+Explain two-way data bindings.
+
 Show `@input`.
 
     Use it on the input field to call a new method that updates the item's units. Use the `event`
