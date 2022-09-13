@@ -274,6 +274,7 @@ Explain `npm run build`. Explore the `dist` folder.
 ### Session 4: LAB
 
 Option A. Do the contact form in the mid-term project with Vue (using the CDN).
+
 Option B. Do the Ironhack Cart.
 
 ## Day 2
@@ -293,4 +294,8 @@ Explore the files and folders. Review what we have already seen on Session 1 in 
 
 ### Session 2: LAB
 
-Set up a new project and create a general layout with 3 components (header, main and footer).
+Using a build setup and SFC.
+
+Option A. Set up a new project and create a general layout with 3 components (header, main and footer).
+
+Option B. Redo the Week 2 lab about a recipe web app, using a component for each section.
