@@ -12,8 +12,6 @@ Redo the Ironhack Cart lab in front of the students using Vue.js as a CDN. Use t
 
 Explanations in some cases should be pretty shallow, later on we'll go more in depth on most of them.
 
-There may not be enough time to do the last bonuses. Do them in the next session, if not possible in this one.
-
 #### Iteration 1
 
 ##### Step 1. Loading Vue.js as a CDN
